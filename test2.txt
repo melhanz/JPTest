@@ -1,0 +1,3 @@
+# Sample # 2 to test access from python to Git
+
+Test 2
