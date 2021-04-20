@@ -1,3 +1,6 @@
 # This is a test file for extracting issue from Git history from JP.
 
-Test
+Test 1
+Test 2
+Test 3
+Test 4
